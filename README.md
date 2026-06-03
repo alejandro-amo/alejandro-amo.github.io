@@ -1,8 +1,5 @@
 ![Alejandro Amo](aa-feature.jpg)
 
-
-<img src="avatar.jpg" alt="Alejandro Amo" width="200px">
-
 # 👋 Hi, I'm Alejandro Amo
 
 ---
