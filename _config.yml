@@ -2,3 +2,5 @@ title: Alejandro Amo
 description: IT Systems Administrator, Data Engineer and Software Developer
 theme: jekyll-theme-midnight
 show_downloads: false
+github:
+  is_project_page: false
