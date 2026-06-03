@@ -1,9 +1,3 @@
----
-layout: page
-title: About Alex Amo
-permalink: /about/
----
-
 ![Alejandro Amo](/assets/images/avatar.jpg)
 
 # Hello. I'm Alejandro Amo.
