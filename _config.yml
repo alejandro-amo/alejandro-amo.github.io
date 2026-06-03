@@ -1,0 +1,23 @@
+title: Alejandro Amo
+description: IT Systems Administrator, Data Engineer and Software Developer
+theme: jekyll-theme-midnight
+
+url: "https://alejandroamo.eu"
+baseurl: ""
+
+author:
+  name: Alejandro Amo
+  email: hello@alejandroamo.eu
+
+github:
+  is_project_page: false
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
