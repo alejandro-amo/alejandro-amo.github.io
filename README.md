@@ -1,4 +1,4 @@
-![Alejandro Amo](avatar.jpg)
+![Alejandro Amo](aa-feature.jpg)
 
 # Hello. I'm Alejandro Amo.
 
