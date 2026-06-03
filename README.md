@@ -7,13 +7,8 @@
 ## 🚀 About me
 
 <img src="avatar.jpg" alt="Alejandro Amo" width="200px">
-I'm an IT systems administrator that evolved into a **data-focused engineer** combining:
-
-- Software development  
-- Data engineering  
-- Project management  
-
-My work revolves around designing and connecting systems to make **data useful, reliable and interoperable**.
+I define myself as a mixture of *data engineering*, *software development* and *project management* roles.
+My work revolves around designing and connecting systems to make *data useful, reliable and interoperable*.
 
 ---
 
