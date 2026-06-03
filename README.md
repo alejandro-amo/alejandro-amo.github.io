@@ -1,4 +1,4 @@
-![Alejandro Amo](/assets/images/avatar.jpg)
+![Alejandro Amo](avatar.jpg)
 
 # Hello. I'm Alejandro Amo.
 
