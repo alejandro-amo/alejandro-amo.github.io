@@ -6,7 +6,7 @@ Thank you for stopping by my little personal website.
 
 ## Who am I?
 
-<img src="/assets/images/avatar.jpg" alt="Alejandro Amo" width="200px">
+<img src="avatar.jpg" alt="Alejandro Amo" width="200px">
 
 I would describe myself as an IT systems administrator who has been slowly adding software development and project management to the skill set to cover the ever growing needs of my employers.
 
