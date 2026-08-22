@@ -39,7 +39,7 @@ Me centro en **conseguir que los sistemas se comuniquen entre sí** y en **conve
 
 ## 💡 Mi filosofía
 
-Me gusta dedicar tiempo a cuidar detalles importantes de un proyecto. No cuidar esos detalles a menudo pueden desembocar en errores graves que luego salen más caros. 
+Me gusta dedicar tiempo a cuidar detalles importantes de un proyecto. No cuidar esos detalles a menudo puede desembocar en errores graves que luego salen más caros. 
 
 A la hora de trabajar con datos, hay que enfocarse en su calidad antes de nada. Malos datos = malas decisiones. Los datos deben ser precisos, completos, consistentes, oportunos, localizables, accesibles, interoperables y reutilizables.
 
