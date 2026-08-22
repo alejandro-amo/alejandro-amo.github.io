@@ -53,7 +53,7 @@ Destaco:
 
 - Diseños webs para empresas y proyectos: [demo1](https://demos.alejandroamo.eu/beattrainingclub), [demo2](https://fisioterapiaysalud.com), [demo3](https://demos.alejandroamo.eu/alertasimpledelluvia/).
   
-- SimpleRainAlerts: Una aplicación Android para obtener notificaciones de lluvia en el móvil de forma totalmente anónima, sin necesidad de registro, sin contraseñas, y sin geolocalización: [aquí](https://demos.alejandroamo.eu/alertasimpledelluvia)(https://demos.alejandroamo.com/alertasimpledelluvia). Utiliza datos de OpenMeteo; Azure functions para el cacheo y redistribución de los datos. Código fuente accesible bajo demanda.
+- SimpleRainAlerts: Una aplicación Android para obtener notificaciones de lluvia en el móvil de forma totalmente anónima, sin necesidad de registro, sin contraseñas, y sin geolocalización: [aquí](https://demos.alejandroamo.eu/alertasimpledelluvia). Utiliza datos de OpenMeteo; Azure functions para el cacheo y redistribución de los datos. Código fuente accesible bajo demanda.
   
 - [No Puedo Esperar](https://app.nopucesperar.org): servicio para personas con necesidades especiales en salud. Permite encontrar rápidamente los establecimientos más cercanos donde el usuario puede recibir el tipo de ayuda que necesita. PWA en Angular16, código fuente accesible bajo demanda. Datos de los establecimientos liberados bajo Open Data, actualizados en tiempo real [aquí](https://github.com/ACCU-Catalunya/nopucesperar-geojson). Backoffice de gestión de datos en Django disponible [aquí](https://github.com/alejandro-amo/NPE).
 
