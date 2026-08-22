@@ -51,7 +51,7 @@ Gran parte de mi trabajo es privado, pero en mi perfil de Github se pueden ver a
 
 Destaco:
 
-- Diseños webs para empresas y proyectos: [demo1](https://demos.alejandroamo.eu/beattrainingclub), [demo2](fisioterapiaysalud.com), [demo3](https://demos.alejandroamo.eu/alertasimpledelluvia/).
+- Diseños webs para empresas y proyectos: [demo1](https://demos.alejandroamo.eu/beattrainingclub), [demo2](https://fisioterapiaysalud.com), [demo3](https://demos.alejandroamo.eu/alertasimpledelluvia/).
   
 - SimpleRainAlerts: Una aplicación Android para obtener notificaciones de lluvia en el móvil de forma totalmente anónima, sin necesidad de registro, sin contraseñas, y sin geolocalización: [aquí](https://demos.alejandroamo.eu/alertasimpledelluvia)(https://demos.alejandroamo.com/alertasimpledelluvia). Utiliza datos de OpenMeteo; Azure functions para el cacheo y redistribución de los datos. Código fuente accesible bajo demanda.
   
