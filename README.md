@@ -57,6 +57,8 @@ Destaco:
   
 - [No Puedo Esperar](https://app.nopucesperar.org): servicio para personas con necesidades especiales en salud. Permite encontrar rápidamente los establecimientos más cercanos donde el usuario puede recibir el tipo de ayuda que necesita. PWA en Angular16, código fuente accesible bajo demanda. Datos de los establecimientos liberados bajo Open Data, actualizados en tiempo real [aquí](https://github.com/ACCU-Catalunya/nopucesperar-geojson). Backoffice de gestión de datos en Django disponible [aquí](https://github.com/alejandro-amo/NPE).
 
+- [PyBlackboard-LMS](https://github.com/alejandro-amo/PyBlackboard-LMS): interfaces Python y de línea de comandos para la API de Blackboard LMS, con autenticación OAuth, paginación transparente, seguimiento de cuota y exportación a JSON, CSV y Excel.
+
 - PyOdourCollect: Bindings en Python para acceder a los datos del observatorio ciudadano de malos olores OdourCollect, [aquí](https://github.com/alejandro-amo/PyOdourCollect)
 
 - IctioPy: Bindings en Python para acceder y normalizar los datos del observatorio Ictio, un observatorio de especies migratorias de peces en el río Amazonas, [aquí](https://github.com/alejandro-amo/IctioPy)     
